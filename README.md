@@ -5,12 +5,18 @@ This work has been published in arXiv: [][`ENet: A Deep Neural Network Architect
 
 ## Instructions
 ### build
+  
   `cd /segmentation`
+  
   `mkdir build`
+  
   `cd build`
+  
   `cmake ..`
- `make`
+  
+  `make`
 
 ### run
   `cd /example`
+  
   `./segment`
